@@ -1,0 +1,23 @@
+{
+  "name": "render_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHRUVI5674/second_render.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DHRUVI5674/second_render/issues"
+  },
+  "homepage": "https://github.com/DHRUVI5674/second_render#readme"
+}
